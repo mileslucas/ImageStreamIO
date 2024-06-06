@@ -26,7 +26,7 @@
 
 #define KEYWORD_MAX_STRING  16            /**< maximun size of the keyword's name */
 #define KEYWORD_MAX_COMMENT 80            /**< maximun size of a keyword's comment */
-#define KEYWORD_MAX_FORMAT  10            /**< maximun size of a keyword's format */
+#define KEYWORD_MAX_FORMAT   8            /**< maximun size of a keyword's format */
 
 // comment if no write history
 //#define IMAGESTRUCT_WRITEHISTORY
